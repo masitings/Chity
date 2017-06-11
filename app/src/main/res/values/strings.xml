@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Action Bar</string>
+    <string name="btn_send_message">Send Message</string>
+    <string name="activity_location_found">Location Found</string>
+    <string name="action_search">Search</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_contacts">Contacts</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Check for Updates</string>
+    <string name="loc_update">Update Location</string>
+    <string name="find_us">Find Us</string>
+    <string name="about_us">About Us</string>
+    <string name="share_this">Share</string>
+    <string name="show_me">Show me on Map</string>
+    <string name="share_update">Share iT</string>
+
+    <string name="interstitial_ad_unit_id">ca-app-pub-8406592670080616/1209889883</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8406592670080616/6058891887</string>
+
+    <string name="search_hint">Search color..</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="title_activity_list_view">ListView</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_driving_details">DrivingDetailsActivity</string>
+    <string name="about_us_details">Chity was application dedicated to my final project of android development and this was the first application that i build. This application show you the favorite place of google maps. </string>
+    <string name="about_us_address">Jl. Candi Gebang, Krajan No.58 Rt.58 Wedomartani Ngemplak Sleman, Yogyakarta (UNIVERSEUP)</string>
+    <string name="about_us_phone">+6281357541790</string>
+    <string name="about_us_web">https://universeup.com</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+</resources>
